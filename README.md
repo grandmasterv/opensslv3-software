@@ -16,3 +16,5 @@ The following is a list of software known to ship with OpenSSL v3.  This is bein
 - Mageia Cauldron 3.0.5
 - OpenMandriva 4.3
 - OpenMandriva Cooker
+- Alma Linux 9.x
+- Alpine Linux Edge
