@@ -10,6 +10,7 @@ The following is a list of software known to ship with OpenSSL v3.  This is bein
 - Red Hat Enterprise Linux 9
 - CentOS Stream 9
 - Fedora 36
+- Fedora CoreOS 36
 - Fedora Rawhide LTS
 - Kali 2022.3
 - Linux Mint 21 Vanessa
@@ -18,3 +19,5 @@ The following is a list of software known to ship with OpenSSL v3.  This is bein
 - OpenMandriva Cooker
 - Alma Linux 9.x
 - Alpine Linux Edge
+- Debian Sid (unstable)
+- Rocky Linux 9
