@@ -20,4 +20,4 @@ The following is a list of software known to ship with OpenSSL v3.  This is bein
 - Alma Linux 9.x
 - Alpine Linux Edge
 - Debian Sid (unstable)
-- Rocky Linux 9
+- Rocky Linux 9 (Blue Onyx)
